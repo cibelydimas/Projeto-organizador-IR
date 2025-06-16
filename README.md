@@ -1,6 +1,6 @@
 # 📊 ORGANIZADOR DE IMPOSTO DE RENDA
 
-Este repositório contém uma planilha prática para organizar todas as informações necessárias para a declaração do Imposto de Renda.
+Este repositório contém uma planilha prática para organizar as informações necessárias para a declaração do Imposto de Renda.
 
 ## 📁 Sobre o arquivo
 
